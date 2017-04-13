@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1491590344 source:g:\编程学习\课程练习\c primer plus chapter3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<inttypes.h>
+
+1491467144 source:g:\编程学习\课程练习\c primer plus chapter3\3.1.c
+	<stdio.h>
+	<stdlib.h>
+
+1491467600 source:g:\编程学习\课程练习\c primer plus chapter3\3.2.c
+	<stdio.h>
+	<stdlib.h>
+
